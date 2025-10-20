@@ -1,8 +1,7 @@
 
-# 👋 Welcome to vyst-inc
+# 👋 Welcome to Vyst, inc
 
-**vyst-inc** is a Brazilian technology company building production-grade software, enterprise platforms, and applied AI systems.
-
+**Vyst, inc** is a Brazilian technology company building production-grade software, enterprise platforms, and applied AI systems.
 We deliver modular, scalable, and secure solutions that help businesses evolve through automation, intelligence, and strong engineering.
 
 ---
@@ -14,23 +13,6 @@ We deliver modular, scalable, and secure solutions that help businesses evolve t
 * Real-time data and analytics pipelines
 * Business automation and integrations (ERP, CRM, Identity)
 * SDKs, APIs, and developer tools
-
----
-
-### 💡 Our approach
-
-* Production-first engineering (CI/CD, observability, metrics)
-* Secure-by-design architecture and code auditability
-* High performance through profiling and system-level optimization
-* Minimal, well-documented APIs and composable modules
-
----
-
-### 🛠️ Tech stack
-
-Rust · Go · C · Python · TypeScript
-Kubernetes · PostgreSQL · Kafka · ClickHouse
-PyTorch · ONNX · MLflow · Terraform
 
 ---
 
